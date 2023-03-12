@@ -1,6 +1,4 @@
-Hi there, I hope you have seen the video or the report.
-
-Here are some basic instructions while running the code, if you wish 😀:
+Here are some basic instructions while running the code, if you wish:
 
 1. Please run the code on colab
 2. There are two .ipynb files. One is the main code and another is code for the
